@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+💻;Data+Science+Engineering+Student+📊;Learning+Something+New+Everyday+✨&center=true&width=520&height=45">
 </p>
 
-<h3 align="center">Data Science Engineering Student | Frontend and Backend Developer</h3>
+<h3 align="center">Data Science and AI Student</h3>
 
 <img align="right" alt="coding" width="380"
 src="https://media.tenor.com/S59bPkT0pqgAAAAC/programming.gif">
