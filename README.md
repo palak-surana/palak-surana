@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋 I'm Palak Surana</h1>
+<!-- Right corner emoji -->
+<img align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="36"/>
+
+<h1 align="center">Hi 👋, I'm Palak Surana</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+💻;Data+Science+%26+AI+Student+📊;Learning+Something+New+Everyday+✨&center=true&width=520&height=45">
@@ -10,7 +13,7 @@
 src="https://media.tenor.com/S59bPkT0pqgAAAAC/programming.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=palak-surana&label=Profile%20Views&color=8b5cf6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=palak-surana&label=Profile%20Views&color=8b5cf6&style=flat"/>
 </p>
 
 ### 🌸 About Me
