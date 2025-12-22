@@ -26,12 +26,16 @@ src="https://media.tenor.com/S59bPkT0pqgAAAAC/programming.gif">
 ---
 
 ### 🔗 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/palak-surana-117b38309" target="_blank"><img src="https://linkedin.com/in/palak-surana-117b38309" target="_blank"></a>
-<a href="https://instagram.com/palak_surana15" target="_blank"><img src="https://instagram.com/palak_surana15" target="_blank"></a>
+<p align="center">
+  <a href="https://linkedin.com/in/palak-surana-117b38309">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/palak_surana15">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45"/>
+  </a>
 </p>
 
----
 
 ### 🛠️ Tech Stack
 
