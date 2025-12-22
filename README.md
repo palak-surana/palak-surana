@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Palak Surana</h1>
+<h1 align="center">👋, I'm Palak Surana</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+💻;Data+Science+%26+AI+Student+📊;Learning+Something+New+Everyday+✨&center=true&width=520&height=45">
