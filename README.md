@@ -1,6 +1,3 @@
-<!-- Right corner emoji -->
-<img align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="36"/>
-
 <h1 align="center">Hi 👋, I'm Palak Surana</h1>
 
 <p align="center">
