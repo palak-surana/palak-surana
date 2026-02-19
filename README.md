@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Palak Surana</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend and Backend +Developer+💻;Data+Science+%26+AI+Student+📊;Learning+Something+New+Everyday+✨&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend & Backend +Developer+💻;Data+Science+%26+AI+Student+📊;Learning+Something+New+Everyday+✨&center=true&width=520&height=45">
 </p>
 
 <h3 align="center">Data Science & AI Student | Web Development Enthusiast</h3>
